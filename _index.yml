@@ -23,72 +23,58 @@ product-family:
     tags: subscriptions
   tiles:
   - title: 发行说明
-    icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: 了解NetApp Console存储管理和NetApp数据服务的新功能。
     tags: all
   - title: NetApp Console管理
-    icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: 了解如何开始使用NetApp Console并管理身份和访问管理、代理等。
     tags: all,console
   - title: NetApp Data Services
-    icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: 探索NetApp数据服务，以保护您的数据基础架构。
     tags: all,data services
   - title: Amazon FSx for NetApp ONTAP
-    icon: "./media/icon-fsx.png"
     url: "../storage-management-fsx-ontap/index.html"
     summary: 将ONTAP的全部功能用作原生的 AWS 托管服务。
     tags: all, aws
   - title: Amazon S3 存储
-    icon: "./media/icon-s3.png"
     url: "../storage-management-s3-storage/index.html"
     summary: 发现并管理您的 AWS 账户中的 Amazon S3 存储桶。
     tags: all,aws
   - title: Azure Blob 存储
-    icon: "./media/icon-azure-blob.png"
     url: "../storage-management-blob-storage/index.html"
     summary: 在 Azure 订阅中发现和管理 Azure Blob 存储。
     tags: all,azure
   - title: Azure NetApp Files
-    icon: "./media/icon-anf.png"
     url: "../storage-management-azure-netapp-files/index.html"
     summary: Azure 中适用于您的核心业务应用程序的高性能文件存储服务。
     tags: all,storage,azure
   - title: Cloud Volumes ONTAP
-    icon: "./media/icon-cvo.png"
     url: "../storage-management-cloud-volumes-ontap/index.html"
     summary: 让您的云存储更经济、更智能、更合规、更安全。
     tags: all,storage,aws,azure,gcp, subscriptions
   - title: E系列系统
-    icon: "./media/icon-e-series.png"
     url: "../storage-management-e-series/index.html"
     summary: 探索 E 系列系统，全面了解混合多云中的数据。
     tags: all,on-prem
   - title: Google Cloud NetApp Volumes
-    icon: "./media/icon-cvs.png"
     url: "../storage-management-google-cloud-netapp-volumes/index.html"
     summary: Google Cloud 中的高性能文件存储服务。
     tags: all,storage,gcp
   - title: Google Cloud Storage
-    icon: "./media/icon-google-cloud-storage.png"
     url: "../storage-management-google-cloud-storage/index.html"
     summary: 发现并管理您的 Google 帐户中的云存储桶。
     tags: all,gcp
   - title: Keystone
-    icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
     summary: 从NetApp Console访问和管理您的Keystone订阅。
     tags: all,subscriptions
   - title: 本地ONTAP集群
-    icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
     summary: 使用系统管理器和NetApp数据服务从NetApp Console管理您的本地ONTAP集群。
     tags: all,on-prem
   - title: StorageGRID
-    icon: "./media/icon-storagegrid.png"
     url: "../storage-management-storagegrid/index.html"
     summary: 管理您的StorageGRID系统。
     tags: all,on-prem
